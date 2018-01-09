@@ -1,6 +1,6 @@
 %part 1
 
-%Create time vector from -5 to 5 seconds, incrimenting by .1, therefore
+%Create time vector from -5 to 5 seconds, incrementing by 0.01, therefore
 t = -5:.01:5;
 
 %Create unit step vector with values of 0 to be replaced with 
