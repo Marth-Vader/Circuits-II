@@ -21,10 +21,10 @@ v4(t) = 5e^(-2t)v0(t)
 
 The vectors were plotted in the following pairs, four graphs, each with two traces:
 
-1. v0(t) and v1(t)  
-2. v0(t) and v2(t)  
-3. v2(t) and v3(t)  
-4. v0(t) and v4(t)  
+ v0(t) and v1(t)  
+ v0(t) and v2(t)  
+ v2(t) and v3(t)  
+ v0(t) and v4(t)  
 
 
 3. Transfer Functions  
