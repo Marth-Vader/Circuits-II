@@ -5,19 +5,19 @@ A unit step function u(t) with K = 1 is created, along with time shifted functio
 
 The following functions were then plotted and displayed in a figure with the graphs in a 2x2 configuration:
 
-y1 = u(t) - u(t-1)
-y2 = u(t) + u(t-1) + u(t-2)
-y3 = u(t)u(t-2)
-y4 = u(t) + u(t-1) - 2u(t-2)
+1. y1 = u(t) - u(t-1)
+2. y2 = u(t) + u(t-1) + u(t-2)
+3. y3 = u(t)u(t-2)
+4. y4 = u(t) + u(t-1) - 2u(t-2)
 
 2. Signals in Time-Domain
 Vectors were created for the following functions:
 
-v0(t) = cos(2πt)u(t)
-v1(t) = cos(2πt + π/4)u(t)
-v2(t) = cos(0.5πt)u(t)
-v3(t) = v0(t)v2(t)
-v4(t) = 5e^(-2t)v0(t)
+1. v0(t) = cos(2πt)u(t)
+2. v1(t) = cos(2πt + π/4)u(t)
+3. v2(t) = cos(0.5πt)u(t)
+4. v3(t) = v0(t)v2(t)
+5. v4(t) = 5e^(-2t)v0(t)
 
 The vectors were plotted in the following pairs, four graphs, each with two traces:
 
